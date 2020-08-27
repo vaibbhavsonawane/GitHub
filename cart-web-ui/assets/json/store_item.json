@@ -1,0 +1,65 @@
+{
+    "storeItem": [
+        {
+            "img" : "assets/images/sweets-1.jpeg",
+            "name": "sweet item",
+            "price": 5
+        },
+        {
+            "img": "assets/images/cupcake-1.jpeg",
+            "name": "Cupcake Item",
+            "price": 5
+        },
+        {
+            "img": "assets/images/cake-1.jpeg",
+            "name": "Cake Item",
+            "price": 5
+        },
+        {
+            "img": "assets/images/doughnut-1.jpeg",
+            "name": "Dougnut Item",
+            "price": 5
+        },
+        {
+            "img": "assets/images/sweets-2.jpeg",
+            "name": "sweet item",
+            "price": 10
+        },
+        {
+            "img": "assets/images/cupcake-2.jpeg",
+            "name": "Cupcake item",
+            "price": 10
+        },
+        {
+            "img": "assets/images/cake-2.jpeg",
+            "name": "Cake Item",
+            "price": 10
+        },
+        {
+            "img": "assets/images/doughnut-2.jpeg",
+            "name": "Dougnut item",
+            "price": 10
+        },
+        {
+            "img": "assets/images/sweets-3.jpeg",
+            "name": "Sweet item",
+            "price": 15
+        }, 
+        {
+            "img": "assets/images/cupcake-3.jpeg",
+            "name": "Cupcake Item",
+            "price": 15
+        },
+        {
+            "img": "assets/images/cake-3.jpeg",
+            "name": "Cake item",
+            "price": 15
+        },
+        {
+            "img": "assets/images/doughnut-3.jpeg",
+            "name": "Dougnut item",
+            "price": 15
+        }
+
+    ]
+}
