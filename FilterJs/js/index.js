@@ -9,7 +9,7 @@ document.getElementById('search-item').addEventListener('keyup', function(event)
     for (let i = 0; i < dessert.length; i++) {
         //console.log(dessert[i].textContent);
         const cName = dessert[i].textContent.toLowerCase();
-        console.log(cName);
+        //console.log(cName);
 
         if (cName.includes(keyWord)) {
             dessert[i].style.display = "block";
